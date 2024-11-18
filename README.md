@@ -1,4 +1,4 @@
-# Social-Media-Sentiment-Analysis
+# Sentiment-Analysis-on-Social-Media-Data
 
 ## Dataset
 The dataset contains 1,600,000 tweets extracted using the twitter api. The tweets have been classified from 0 (negative) to 4 (positive). The dataset contains 6 fields which are target as integer, ids as integer, date as date, flag as string, user as string and text as string.These 6 fields are shown below.
